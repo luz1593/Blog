@@ -1,0 +1,93 @@
+header{
+	padding:10px;
+	padding-top: 10px;
+	background-color: #93C26D;
+	text-align: center;
+	font-size: 30px;
+	font-style: arial;
+	color: white;
+	margin: 10px;
+
+}
+
+article{
+	background-color:#8cc959 ;
+}
+
+article p{
+	color:white;
+	font-size: 50px;
+}
+p{
+	color:black;
+	font-family: helvetica;
+
+
+
+}
+img{
+	width: 950px;
+	margin: 30px 30px;
+
+}
+
+section header{
+	background-color: white;
+	color: #8cc959;
+}
+
+footer{
+	text-align: center;
+	font-size: 20px;
+}
+
+aside{
+	text-align: center;
+}
+aside section{
+	background-color: white;
+}
+
+aside section h4{
+	background-color:#8cc959 ;
+	font-size: 55px;
+	text-align: center;
+}
+
+ul{
+	color:black;
+	list-style-type: none;
+}
+
+aside section img{
+	width: 400px;
+	margin:20px;
+
+}
+
+#bucket{
+
+	background-color: white;
+	font-size: 45px;
+	width: 100%;
+	clear:both;
+	max-width: 100%;
+	float:none;
+	position:relative;
+	text-align: center;
+
+
+}
+
+section#bucket h4{
+	font-size: 55px;
+	background-color: #8cc959;
+}
+
+#mypet{
+	float: right;
+
+}
+.limegreen{
+	color: orange;
+}
