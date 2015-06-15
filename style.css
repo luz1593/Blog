@@ -16,11 +16,12 @@ article{
 	padding: 30px;
 	border:20px;
 	margin:20px;
+	font-size: 60px;
 }
 
 article p{
 	color:white;
-	font-size: 50px;
+
 }
 
 p{
@@ -40,11 +41,6 @@ section header{
 	color: #8cc959;
 }
 
-footer{
-	text-align: center;
-	font-size: 40px;
-	color:white;
-}
 
 aside section{
 	background-color: white;
@@ -85,15 +81,48 @@ table{
 	float:none;
 	position:relative;
 	text-align: center;
-
 }
 
 thead{
 
 	font-size: 100px;
-
+	background-color: #8cc959;
+	color:green;
+	text-align: center;
+	margin: 15px;
+	padding: 15px;
+	border:10px;
 }
 
+td img{
+	width: 1000px;
+	text-align: center;
+}
+div{
+    height:300px;
+    width:1000px;
+    border-color:white;
+    background-color:#8cc959;
+    border-style:solid;
+    border width:100px;
+    border-radius:40px;
+    margin:auto;
+    padding: 50px;
+    text-align:center;
+}
+
+a{
+    text-decoration:none;
+    color:white;
+    font-family: Impact;
+    text-align:center;
+    font-size: 100px;
+}
+
+span{
+	color: black;
+	font-size: 150px;
+}
 .answer{
 	color: #8cc959;
 	font-size: 50px;
